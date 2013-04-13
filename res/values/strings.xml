@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teamie Intern</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="edit_message1"> The history of nuclear physics as a discipline distinct from atomic physics starts with the discovery of radioactivity by Henri Becquerel in 1896, while investigating</string>
+    <string name="edit_message2">in uranium salts. The discovery of the</string>
+    <string name="edit_message3">by J. J. Thomson a year later was an indication that the atom had internal structure. At the turn of the 20th century the accepted model of the atom was J. J. Thomson\'s</string>
+    <string name="edit_message4">in which the atom was a large positively charged ball with small negatively charged electrons embedded inside of it. By the turn of the century physicists had also discovered three types of</string>
+    <string name="edit_message5"> emanating from atoms, which they named alpha, beta, and gamma radiation. Experiments in 1911 by Otto Hahn, and by</string>
+    <string name="edit_message6">in 1914 discovered that the beta decay </string>
+    <string name="edit_message7">was continuous rather than discrete. This was a problem for nuclear physics at the time, because it indicated that</string>
+    <string name="edit_message8">in these decays. In 1905, </string>
+    <string name="edit_message9"> formulated the idea of</string>
+    <string name="edit_message10">  the source of the energy of radioactivity would have to wait for the discovery that the nucleus itself was composed of smaller constituents, the </string>
+    <string name="edit_message11"> .</string>
+    
+    
+<!--     Used in spinner2 -->
+<!-- NOTE: This string array doesn't have to be in strings.xml. "Any" arbitrary name is okay. -->
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
